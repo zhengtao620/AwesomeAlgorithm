@@ -1,0 +1,7 @@
+AwesomeAlgorithm
+================
+
+Some amazing algorithms
+
+
+
